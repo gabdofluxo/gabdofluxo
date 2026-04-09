@@ -33,9 +33,9 @@ Tô sempre mexendo em projeto novo, testando coisa diferente e melhorando minhas
 ## 🚀 Projetos
 Aqui vão alguns dos meus projetos (vou atualizando conforme for criando mais):
 
-🔹 [Nature News](link-do-projeto)  
-🔹 [ArqTech](link-do-projeto)  
-🔹 [Haunter Store](link-do-projeto)  
+🔹 [Nature News](https://github.com/Ts-Joao/NatureNews.git)  
+🔹 [ArqTech](https://github.com/gabdofluxo/ArqTech.git)  
+🔹 [Haunter Store](https://github.com/GabrielMeloIF/haunter-store.git)  
 
 
 
