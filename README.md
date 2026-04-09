@@ -33,12 +33,11 @@ Tô sempre mexendo em projeto novo, testando coisa diferente e melhorando minhas
 ## 🚀 Projetos
 Aqui vão alguns dos meus projetos (vou atualizando conforme for criando mais):
 
-🔹 [Nome do Projeto](link-do-projeto)  
-🔹 [Outro Projeto](link-do-projeto)  
+🔹 [Nature News](link-do-projeto)  
+🔹 [ArqTech](link-do-projeto)  
+🔹 [Haunter Store](link-do-projeto)  
 
----
 
-## 📊 GitHub Stats
 
 ---
 
